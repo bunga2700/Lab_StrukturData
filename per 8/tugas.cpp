@@ -125,11 +125,11 @@ int main() {
     ht.display();
 
     // search
-    cout << "Mencari NIM 251401014:" << endl;
+    cout << "Mencari NIM 251401023:" << endl;
     ht.search(251401023);
 
     // remove
-    cout << "Menghapus NIM 251401023:" << endl;
+    cout << "Menghapus NIM 251401041:" << endl;
     ht.remove(251401041);
 
     // menampilkan tabel setelah remove
